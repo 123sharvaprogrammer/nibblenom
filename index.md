@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<button><strong><p><h1><a href="file:///home/sharva/web%20page/2.html">Contact me 👐<br></a></h1></p></strong></button>
+<button><strong><p><h1><a href="file:///home/sharva/web%20page/3.html">💁👼About me</span></a></h1></p></strong></button></span><br>
+<button><strong><h1><a href="file:///home/sharva/web%20page/5.html">🎮Game</a></h1></p></strong></button>
+<button><strong><p><h1><a href="file:///home/sharva/web%20page/4.html">Help🚁<br></a></h1></p></strong></button>
+<img src="https://lh3.googleusercontent.com/a-/AOh14Giym17dmuIUWV7QFWPsgxwQjE4ClSPpzB1xLIC_=s600-k-no-rp-mo" alt="Smiley face" style="float:right;width:200px;height:200px;"><br>
+<h2>thanks for visiting my site        please visit my school here</h2>
+<h1><button><strong><p><a href="https://airaa.com" target=_blank>School🏫</a></p></strong></button></h1>
+</head>	
+<p>_______________________________________________________________________________________________________________________________________________________________________</p>
+<style>
+body {
+  background-image: url('https://assets.newatlas.com/dims4/default/454bf5c/2147483647/strip/true/crop/1992x1328+4+0/resize/1200x800!/format/webp/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ffe%2F06%2F75f2c8704c71ade9c8881c997c8f%2Fdepositphotos-41105113-l-2015.jpg');
+}
+</style>
+<title>My personal website</title>
+<h1 style="color:red;">My Site "Sharva"</h1><br>
+<iframe width="500" height="415"
+src="https://www.youtube.com/embed/QVlTb21v5eU">
+</iframe>
+<img src="https://www.animatedimages.org/data/media/1309/animated-laughing-image-0095.gif" alt="Thanks" style="float:centre;width:250px;height:150px;">
+<style>
+table {
+  width:100%;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+#t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+#t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+#t01 th {
+  background-color: black;
+  color: white;
+}
+</style>
+</head>
+<body>
+<style>
+div {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+</style>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/123sharvaprogrammer/nibblenom/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2>Latest new from Nasa</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IC62DCCFWYI6TFFL2LO2HQG7KI.jpg&w=691" width="350" height="263" alt="Klematis">
+<h2><div><span style="color:white;">This Rocket is well disigned for flying and gliding  in high speeds.NASA’s new rocket would be the most powerful ever. But it’s the software that has some officials worried.</span></div></h2>	
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2>Just a quick look</h2>
+<table id="t01">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+    <th>Proggraming language used</th>
+    <th>School</th>
+  <tr>
+    <td>Sharva</td>
+    <td>Suresh</td>
+    <td>11</td>
+    <td>html,css</td>
+    <td>Airaa</td>
+  </tr>
+  <tr>
+</table>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/123sharvaprogrammer/nibblenom/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
+<p>________________________________________________________________________________________________________________________________________________________________________<p>
+<h1>Social</h1><br>
+<button><strong><h1><p><a href="https://www.youtube.com/channel/UCYiV5yanh7gp1wo3jhRegNA" target=_blank>📹Youtube</a></h1></p></strong></button>
+<button><strong><p><h1><a href="https://www.facebook.com/sharva.suresh.7" target=_blank>📼Facebook</a></p></h1></strong></button>
+<img src="https://media.tenor.com/images/71d82794ff0011c94738bc04afb68fd2/tenor.gif" alt="Thanks" style="float:centre;width:250px;height:150px;">
+</body>
+</html>
